@@ -8,6 +8,8 @@ Tip: Change the class to "open" and the text to "Access Granted"
 
 ## Optional Tasks
 
+Show which buttons have been pressed so far.
+
 Have the panel automatically reset after a period of time inactive.  
 Show a countdown timer for the reset.
 
