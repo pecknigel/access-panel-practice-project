@@ -20,7 +20,7 @@ However, looking over them can be a good way to learn, so perhaps start there.
 ## How it Looks
 
 This is how it looks before you get started.  
-\[\[ Image Pending \]\]
+<img width="594" height="175" alt="" src="https://github.com/user-attachments/assets/8aed88a9-686a-432a-9d5e-951108ba5e73" />
 
 ## How it Works
 
